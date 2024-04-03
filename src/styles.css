@@ -1,1 +1,18 @@
-/* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.googleapis.com/css2?family=Sen:wght@400..800&display=swap");
+
+:root {
+  --keyColor: #ED213A;
+}
+
+* {
+  font-family: "Sen", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  color: white;
+}
+
+body {
+  background-color: black;
+  max-width: 70%;
+  margin: auto;
+}
